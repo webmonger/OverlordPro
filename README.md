@@ -1,5 +1,5 @@
 # Overlord Pro Cura Configurations
-This repository is for cura print profiles and settings for different types of filament for use with the [Overlord Pro](http://www.dreammaker.cc/store/index.php?route=product/product&path=59&product_id=51) by [Dreammaker](http://www.dreammaker.cc/)
+This repository is for cura and slic3r print profiles and settings for different types of filament for use with the [Overlord Pro](http://www.dreammaker.cc/store/index.php?route=product/product&path=59&product_id=51) by [Dreammaker](http://www.dreammaker.cc/)
 
 All profiles are developments and should be tested before being used.
 
@@ -19,4 +19,5 @@ e.g.
 
 ## Current Profiles
 
-* [Dreammaker Default](cura/default.ini)
+* [Cura Overlord Pro Default](cura/default.ini)
+* [Slic3r Overlord Pro Default](slic3r/default.ini)
