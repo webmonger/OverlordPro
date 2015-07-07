@@ -21,3 +21,4 @@ e.g.
 
 * [Cura Overlord Pro Default](cura/default.ini)
 * [Slic3r Overlord Pro Default](slic3r/default.ini)
+* [Simplify 3D Overlord Pro Default](simplify3d/overlord-default.fff)
